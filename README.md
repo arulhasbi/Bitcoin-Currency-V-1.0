@@ -9,7 +9,7 @@ Hi, it's bitcoin currency converter. You can easily convert the current bitcoin 
 
 ## Demo
 
-  <img src="https://user-images.githubusercontent.com/24683971/31127916-6919c650-a87a-11e7-8910-c647f29f91c7.PNG" width="270"   height="480"/> ` ` <img src="https://user-images.githubusercontent.com/24683971/31130829-afc9ad42-a882-11e7-8a97-f6caef786632.gif" width="270" height="480"/>
+  <img src="https://user-images.githubusercontent.com/24683971/31163490-cdebe79c-a90c-11e7-9d32-2e1a181d57d6.PNG" width="270"   height="480"/> ` ` <img src="https://user-images.githubusercontent.com/24683971/31130829-afc9ad42-a882-11e7-8a97-f6caef786632.gif" width="270" height="480"/>
 
 
 
